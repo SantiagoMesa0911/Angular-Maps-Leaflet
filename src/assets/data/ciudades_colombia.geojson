@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "city": "Bogotá" },
+        "geometry": { "type": "Point", "coordinates": [-74.0721, 4.711] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Medellín" },
+        "geometry": { "type": "Point", "coordinates": [-75.5636, 6.2518] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Cali" },
+        "geometry": { "type": "Point", "coordinates": [-76.532, 3.4516] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Barranquilla" },
+        "geometry": { "type": "Point", "coordinates": [-74.7813, 10.9685] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Cartagena" },
+        "geometry": { "type": "Point", "coordinates": [-75.4794, 10.391] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Bucaramanga" },
+        "geometry": { "type": "Point", "coordinates": [-73.1198, 7.1193] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Cúcuta" },
+        "geometry": { "type": "Point", "coordinates": [-72.5078, 7.8891] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Pereira" },
+        "geometry": { "type": "Point", "coordinates": [-75.6946, 4.8087] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Manizales" },
+        "geometry": { "type": "Point", "coordinates": [-75.5138, 5.07] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Ibagué" },
+        "geometry": { "type": "Point", "coordinates": [-75.237, 4.4389] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Santa Marta" },
+        "geometry": { "type": "Point", "coordinates": [-74.211, 11.2408] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Villavicencio" },
+        "geometry": { "type": "Point", "coordinates": [-73.635, 4.1532] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Pasto" },
+        "geometry": { "type": "Point", "coordinates": [-77.2811, 1.2136] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Montería" },
+        "geometry": { "type": "Point", "coordinates": [-75.8814, 8.7479] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "city": "Neiva" },
+        "geometry": { "type": "Point", "coordinates": [-75.2819, 2.9273] }
+      }
+    ]
+  }
+  
